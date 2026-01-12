@@ -1,8 +1,7 @@
-# fav-anime-series
+# Titles
 
-- parasyte
-- hajime no ippo
-- alice in borderland
-- demon slayer
-- fragnant flowers bloom with dignity
-
+- A River Runs Through It
+- Fight Club
+- 12 Years a Slave
+- The Big Short
+- 12 Monkeys
